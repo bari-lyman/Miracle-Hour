@@ -1,5 +1,7 @@
 # Miracle Hour Dashboard
 
+**Live:** https://bari-lyman.github.io/Miracle-Hour/
+
 A daily sales & outreach dashboard built on **Kelly Roach's Miracle Hour**
 methodology (Virtual Business School). It turns the "Order of Action for
 Daily Sales" bullseye, the Dream 1000, the 7 Core Activities, and the daily
